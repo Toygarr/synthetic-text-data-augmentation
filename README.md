@@ -1,6 +1,6 @@
 # Introduction
 
-This repository includes my Tubitak studies. Most needed descriptions are explained inside of the notebooks.<br/> However, will be extended here later on. <br />
+This repository includes my Tubitak studies. Most needed descriptions are explained inside of the notebooks.<br/><br />
 Feel free to check the [datasets-for-natural-language-processing](https://www.kaggle.com/toygarr/datasets-for-natural-language-processing) that I use for tasks mostly.
 
 Available Methods:
